@@ -39,7 +39,7 @@ public class GCDQueue {
   */
   public class var highPriorityGlobalQueue: GCDQueue {
     
-    return GCDQueue(dispatchQueue: DispatchQueue.global(qos:.userInitiated))
+    return GCDQueue(dispatchQueue: DispatchQueue.global(qos:.userInteractive))
   }
 
  /**
