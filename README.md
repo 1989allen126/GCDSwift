@@ -1,7 +1,10 @@
+# 修复问题
+1)对原来组件进行必要修复
+2)本人处于兴趣爱好
+3)工程非本人原创,我只是一个搬运工,顺便修理了一下,在此声明,有问题大家可以一起交流,谢谢
+
+
 # GCDSwift
-
-## GCDSwift is no longer supported. For iOS 10+, use the [Dispatch](https://developer.apple.com/reference/dispatch) framework.
-
 GCDSwift is a Swift wrapper for the most commonly used features of Grand Central Dispatch.  It has four main aims:
 
 * Organize the flat C API into appropriate classes.
